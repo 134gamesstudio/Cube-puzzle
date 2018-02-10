@@ -1,0 +1,906 @@
+﻿Log file open, 02/10/18 07:21:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(825708683) SRandInit(825708683).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.661307
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.10-13.22.02:414][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.10-13.22.02:414][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.10-13.22.02:447][  0]LogInit: Computer: DESKTOP-QDG7R2A
+[2018.02.10-13.22.02:447][  0]LogInit: User: User
+[2018.02.10-13.22.02:447][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.10-13.22.02:447][  0]LogInit: High frequency timer resolution =3.919469 MHz
+[2018.02.10-13.22.02:448][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.10-13.22.02:448][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.10-13.22.02:448][  0]LogMemory: Process Physical Memory: 278.25 MB used, 278.25 MB peak
+[2018.02.10-13.22.02:448][  0]LogMemory: Process Virtual Memory: 276.24 MB used, 276.24 MB peak
+[2018.02.10-13.22.02:448][  0]LogMemory: Physical Memory: 4165.95 MB used,  12117.55 MB free, 16283.49 MB total
+[2018.02.10-13.22.02:448][  0]LogMemory: Virtual Memory: 730.45 MB used,  12117.55 MB free, 134217728.00 MB total
+[2018.02.10-13.22.02:905][  0]LogInit: Using OS detected language (en-US).
+[2018.02.10-13.22.02:905][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.10-13.22.02:964][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.10-13.22.03:561][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.10-13.22.05:960][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.10-13.22.05:999][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) RX 480' (Feature Level 11_0)
+[2018.02.10-13.22.06:000][  0]LogD3D11RHI:       8140/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.02.10-13.22.06:004][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.10-13.22.06:004][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.10-13.22.06:004][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.10-13.22.06:015][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.10-13.22.06:015][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2018.02.10-13.22.06:015][  0]LogWindows: EnumDisplayDevices:
+[2018.02.10-13.22.06:016][  0]LogWindows:    0. 'AMD Radeon (TM) RX 480' (P:1 D:1)
+[2018.02.10-13.22.06:016][  0]LogWindows:    1. 'AMD Radeon (TM) RX 480' (P:0 D:0)
+[2018.02.10-13.22.06:016][  0]LogWindows:    2. 'AMD Radeon (TM) RX 480' (P:0 D:0)
+[2018.02.10-13.22.06:016][  0]LogWindows:    3. 'AMD Radeon (TM) RX 480' (P:0 D:0)
+[2018.02.10-13.22.06:017][  0]LogWindows:    4. 'AMD Radeon (TM) RX 480' (P:0 D:0)
+[2018.02.10-13.22.06:017][  0]LogWindows:    5. 'AMD Radeon (TM) RX 480' (P:0 D:0)
+[2018.02.10-13.22.06:017][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.10-13.22.06:017][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) RX 480
+[2018.02.10-13.22.06:017][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.10-13.22.06:017][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.10-13.22.06:017][  0]LogRHI: Texture pool is 5698 MB (70% of 8140 MB)
+[2018.02.10-13.22.06:163][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.10-13.22.06:199][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.02.10-13.22.06:208][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (E:/UnrealProjects/MyProject/Intermediate/Shaders/WorkingDirectory/7292/).
+[2018.02.10-13.22.06:208][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/373EF8AD4D59417CCDA9D09420FE2C8D/'.
+[2018.02.10-13.22.06:208][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.10-13.22.08:903][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.10-13.22.08:992][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.10-13.22.09:073][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.10-13.22.09:156][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.10-13.22.09:244][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.10-13.22.09:327][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.10-13.22.09:412][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.10-13.22.09:494][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.10-13.22.09:569][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.10-13.22.09:653][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.10-13.22.09:736][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.10-13.22.09:820][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.10-13.22.09:903][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.10-13.22.09:985][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.10-13.22.10:149][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.10-13.22.10:150][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.10-13.22.10:237][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.10-13.22.10:302][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.10-13.22.10:447][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.10-13.22.10:489][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.10-13.22.10:572][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.10-13.22.10:664][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.10-13.22.10:746][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.10-13.22.10:832][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.10-13.22.10:832][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.10-13.22.11:675][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.10-13.22.12:177][  0]LogDerivedDataCache: Loaded boot cache 0.50s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.10-13.22.12:177][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.10-13.22.12:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UnrealProjects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.10-13.22.12:177][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.10-13.22.12:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UnrealProjects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.10-13.22.12:178][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.10-13.22.12:209][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.10-13.22.12:222][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.10-13.22.12:243][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.10-13.22.12:249][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.10-13.22.12:263][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.10-13.22.12:263][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.10-13.22.13:363][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.10-13.22.14:098][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.10-13.22.14:172][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.10-13.22.14:173][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.10-13.22.14:173][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.10-13.22.14:173][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.10-13.22.14:173][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.10-13.22.14:259][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.02.10-13.22.14:809][  0]LogAssetRegistry: FAssetRegistry took 0.0422 seconds to start up
+[2018.02.10-13.22.16:265][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.077450 seconds
+[2018.02.10-13.22.16:275][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.10-13.22.16:275][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.10-13.22.16:275][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.10-13.22.16:369][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.10-13.22.23:529][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.10-13.22.23:596][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.10-13.22.24:897][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.10-13.22.25:745][  0]SourceControl: Source control is disabled
+[2018.02.10-13.22.25:745][  0]SourceControl: Source control is disabled
+[2018.02.10-13.22.25:841][  0]SourceControl: Source control is disabled
+[2018.02.10-13.22.25:932][  0]SourceControl: Source control is disabled
+[2018.02.10-13.22.27:331][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.10-13.22.27:773][  0]LogOcInput: OculusInput pre-init called
+[2018.02.10-13.22.28:340][  0]LogEngine: Initializing Engine...
+[2018.02.10-13.22.28:771][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.02.10-13.22.29:447][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.10-13.22.29:447][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.10-13.22.29:724][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.10-13.22.29:765][  0]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.22.29:782][  0]LogInit: FAudioDevice initialized.
+[2018.02.10-13.22.29:916][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.10-13.22.29:953][  0]LogInit: Texture streaming: Enabled
+[2018.02.10-13.22.30:168][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.10-13.22.30:440][  0]LogInit: Transaction tracking system initialized
+[2018.02.10-13.22.31:049][  0]BlueprintLog: New page: Editor Load
+[2018.02.10-13.22.32:902][  0]LocalizationService: Localization service is disabled
+[2018.02.10-13.22.34:250][  0]LogConsoleResponse: Display: 
+[2018.02.10-13.22.34:976][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/MyProject/Content/' took 0.02s
+[2018.02.10-13.22.34:976][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.10-13.22.34:977][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.10-13.22.34:978][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.10-13.22.37:099][  0]SourceControl: Source control is disabled
+[2018.02.10-13.22.37:101][  0]Cmd: MAP LOAD FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.10-13.22.37:128][  0]LightingResults: New page: Lighting Build
+[2018.02.10-13.22.37:209][  0]MapCheck: New page: Map Check
+[2018.02.10-13.22.37:209][  0]LightingResults: New page: Lighting Build
+[2018.02.10-13.22.38:151][  0]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.22.38:191][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.10-13.22.38:248][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.10-13.22.38:320][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.046ms to complete.
+[2018.02.10-13.22.38:320][  0]LogFileHelpers: Loading map 'PuzzleExampleMap' took 1.220
+[2018.02.10-13.22.38:523][  0]LogCollectionManager: Loaded 0 collections in 0.002254 seconds
+[2018.02.10-13.22.38:659][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/MyProject/Saved/Collections/' took 0.01s
+[2018.02.10-13.22.38:659][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/MyProject/Content/Developers/User/Collections/' took 0.01s
+[2018.02.10-13.22.38:659][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/MyProject/Content/Collections/' took 0.01s
+[2018.02.10-13.22.38:659][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.10-13.22.38:675][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2363 classes and 519 folders.
+[2018.02.10-13.22.38:789][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.10-13.22.39:216][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.10-13.22.39:403][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.10-13.22.39:586][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.10-13.22.39:586][  0]LogLoad: (Engine Initialization) Total time: 43.82 seconds
+[2018.02.10-13.22.39:586][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.10-13.22.39:587][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.10-13.22.39:587][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.10-13.22.39:627][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.10-13.22.39:641][  0]LogSlate: Took 0.006474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.10-13.22.39:649][  0]LogSlate: Took 0.005763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.10-13.22.39:657][  0]LogSlate: Took 0.006163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.10-13.22.39:933][  1]LogAssetRegistry: Asset discovery search completed in 25.1500 seconds
+[2018.02.10-13.22.39:935][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.10-13.22.39:935][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.02.10-13.22.39:973][  2]LogRenderer: Reallocating scene render targets to support 816x836 Format 10 NumSamples 1 (Frame:1).
+[2018.02.10-13.22.40:101][  2]LogBlueprintUserMessages: [PuzzleBlock_C_0] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.22.50:917][765]LogSlate: Took 0.006001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.10-13.22.50:957][765]LogRenderer: Reallocating scene render targets to support 1228x964 Format 10 NumSamples 1 (Frame:740).
+[2018.02.10-13.23.01:930][555]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.10-13.23.02:451][555]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.02.10-13.23.03:390][555]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.10-13.23.03:524][555]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.23.03:536][555]LogSlate: Took 0.005713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.10-13.23.03:739][556]LogSlate: Took 0.005429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.10-13.23.36:357][966]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.23.36:436][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.23.36:437][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.23.36:444][966]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:23:36 AM)
+[2018.02.10-13.23.36:444][966]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.23.36:499][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054667s)
+[2018.02.10-13.23.36:500][966]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.23.36:501][966]LogPlayLevel: PIE: World Init took: (0.002308s)
+[2018.02.10-13.23.36:502][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.057760s)
+[2018.02.10-13.23.36:576][966]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.23.36:586][966]LogInit: FAudioDevice initialized.
+[2018.02.10-13.23.36:666][966]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.23.36:675][966]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.23.36
+[2018.02.10-13.23.36:677][966]LogWorld: Bringing up level for play took: 0.001982
+[2018.02.10-13.23.36:756][966]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.02.10-13.23.36:775][966]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 1.151
+[2018.02.10-13.23.36:776][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.23.36:824][966]LogRenderer: Reallocating scene render targets to support 1292x964 Format 10 NumSamples 1 (Frame:1).
+[2018.02.10-13.23.38:300][118]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.23.39:100][205]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.23.40:634][362]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.23.41:558][456]LogBlueprintUserMessages: [PuzzleBlock_C_8] Hello
+[2018.02.10-13.23.42:419][546]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.23.42:993][606]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.23.43:493][657]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.23.44:016][711]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.23.44:824][795]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.23.45:268][841]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.23.45:794][896]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.23.46:698][990]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.23.49:435][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.23.49:475][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.26.37:787][714]BlueprintLog: New page: Compile PuzzleGameMode
+[2018.02.10-13.26.37:845][714]LogBlueprintUserMessages: [PuzzleBlock_C_0] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.26.37:846][714]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.26.42:452][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleGameMode" FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset" SILENT=true
+[2018.02.10-13.26.42:588][223]LogSavePackage: Save=90.85ms
+[2018.02.10-13.26.42:588][223]LogSavePackage: Moving 'E:/UnrealProjects/MyProject/Saved/PuzzleGameMode2CE2C65641778679CCC83F8C0AACC7B7.tmp' to 'E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset'
+[2018.02.10-13.26.42:590][223]LogSavePackage: Display: Finished SavePackage E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset
+[2018.02.10-13.27.12:236][601]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.10-13.28.50:846][627]BlueprintLog: New page: Compile PuzzleGameMode
+[2018.02.10-13.28.50:898][627]LogBlueprintUserMessages: [PuzzleBlock_C_0] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.28.50:898][627]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.28.51:942][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleGameMode" FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset" SILENT=true
+[2018.02.10-13.28.52:450][694]LogSavePackage: Save=503.40ms
+[2018.02.10-13.28.52:450][694]LogSavePackage: Moving 'E:/UnrealProjects/MyProject/Saved/PuzzleGameModeBB10E4C946338CE2414CDBB1BCE84C2F.tmp' to 'E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset'
+[2018.02.10-13.28.52:452][694]LogSavePackage: Display: Finished SavePackage E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset
+[2018.02.10-13.29.10:650][779]BlueprintLog: New page: Compile PuzzleBlock
+[2018.02.10-13.29.10:885][779]LogBlueprintUserMessages: [PuzzleBlock_C_0] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.11:004][779]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.11:180][779]LogBlueprintUserMessages: [PuzzleBlock_C_0] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.11:181][779]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.11:183][779]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.16:236][377]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.29.16:266][377]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.29.16:266][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.29.16:267][377]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:29:16 AM)
+[2018.02.10-13.29.16:267][377]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.29.16:291][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024123s)
+[2018.02.10-13.29.16:292][377]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.29.16:292][377]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2018.02.10-13.29.16:293][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.025949s)
+[2018.02.10-13.29.16:365][377]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.29.16:374][377]LogInit: FAudioDevice initialized.
+[2018.02.10-13.29.16:424][377]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.29.16:426][377]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.29.16
+[2018.02.10-13.29.16:426][377]LogWorld: Bringing up level for play took: 0.001115
+[2018.02.10-13.29.16:435][377]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.811
+[2018.02.10-13.29.16:436][377]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.29.27:505][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.29.27:555][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.29.49:403][195]BlueprintLog: New page: Compile PuzzleBlock
+[2018.02.10-13.29.49:624][195]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.49:744][195]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.49:933][195]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.49:934][195]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.49:934][195]LogBlueprintUserMessages: [PuzzleBlock_C_7] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.29.51:559][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleBlock" FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset" SILENT=true
+[2018.02.10-13.29.51:830][382]LogSavePackage: Save=259.35ms
+[2018.02.10-13.29.51:830][382]LogSavePackage: Moving 'E:/UnrealProjects/MyProject/Saved/PuzzleBlock6BE626374E32C7CCEE2DFA8937C3D3CF.tmp' to 'E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset'
+[2018.02.10-13.29.51:832][382]LogSavePackage: Display: Finished SavePackage E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset
+[2018.02.10-13.29.53:701][602]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.29.53:723][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.29.53:723][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.29.53:724][602]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:29:53 AM)
+[2018.02.10-13.29.53:724][602]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.29.53:749][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024920s)
+[2018.02.10-13.29.53:750][602]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.29.53:750][602]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2018.02.10-13.29.53:750][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.026547s)
+[2018.02.10-13.29.53:826][602]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.29.53:835][602]LogInit: FAudioDevice initialized.
+[2018.02.10-13.29.53:881][602]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.29.53:883][602]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.29.53
+[2018.02.10-13.29.53:883][602]LogWorld: Bringing up level for play took: 0.001074
+[2018.02.10-13.29.53:892][602]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.268
+[2018.02.10-13.29.53:893][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.29.57:298][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.29.57:352][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.30.34:011][915]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.30.50:440][827]BlueprintLog: New page: Compile PuzzleBlockGrid
+[2018.02.10-13.30.50:482][827]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.30.50:483][827]LogBlueprintUserMessages: [PuzzleBlock_C_7] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.30.53:107][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleBlockGrid" FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset" SILENT=true
+[2018.02.10-13.30.53:188][ 78]LogSavePackage: Save=71.16ms
+[2018.02.10-13.30.53:189][ 78]LogSavePackage: Moving 'E:/UnrealProjects/MyProject/Saved/PuzzleBlockGrid13BAD4E142CC34E4FC7986BC4B965E50.tmp' to 'E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset'
+[2018.02.10-13.30.53:190][ 78]LogSavePackage: Display: Finished SavePackage E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset
+[2018.02.10-13.31.02:480][168]BlueprintLog: New page: Compile PuzzleBlock
+[2018.02.10-13.31.02:710][168]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.31.02:831][168]LogBlueprintUserMessages: [PuzzleBlock_C_7] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.31.03:016][168]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.31.03:016][168]LogBlueprintUserMessages: [PuzzleBlock_C_7] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.31.03:017][168]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.31.07:119][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleBlock" FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset" SILENT=true
+[2018.02.10-13.31.07:379][650]LogSavePackage: Save=255.43ms
+[2018.02.10-13.31.07:379][650]LogSavePackage: Moving 'E:/UnrealProjects/MyProject/Saved/PuzzleBlock165894E74CC6B4166B05D6AA9092D5B7.tmp' to 'E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset'
+[2018.02.10-13.31.07:381][650]LogSavePackage: Display: Finished SavePackage E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset
+[2018.02.10-13.31.15:510][462]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.31.15:537][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.31.15:537][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.31.15:537][462]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:31:15 AM)
+[2018.02.10-13.31.15:538][462]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.31.15:564][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026087s)
+[2018.02.10-13.31.15:565][462]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.31.15:565][462]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2018.02.10-13.31.15:565][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.027650s)
+[2018.02.10-13.31.15:635][462]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.31.15:644][462]LogInit: FAudioDevice initialized.
+[2018.02.10-13.31.15:694][462]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.31.15:695][462]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.31.15
+[2018.02.10-13.31.15:696][462]LogWorld: Bringing up level for play took: 0.001038
+[2018.02.10-13.31.15:704][462]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.08
+[2018.02.10-13.31.15:705][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.31.25:724][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.31.25:777][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.31.49:553][190]BlueprintLog: New page: Compile PuzzleGameMode
+[2018.02.10-13.31.49:597][190]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.31.49:597][190]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.32.06:930][209]BlueprintLog: New page: Compile PuzzleBlock
+[2018.02.10-13.32.07:161][209]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.32.07:281][209]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.32.07:463][209]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.32.07:464][209]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.32.07:464][209]LogBlueprintUserMessages: [PuzzleBlock_C_7] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.32.09:618][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleGameMode" FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset" SILENT=true
+[2018.02.10-13.32.09:720][454]LogSavePackage: Save=90.83ms
+[2018.02.10-13.32.09:720][454]LogSavePackage: Moving 'E:/UnrealProjects/MyProject/Saved/PuzzleGameModeDA6079134138E765554D7C835AA641B4.tmp' to 'E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset'
+[2018.02.10-13.32.09:722][454]LogSavePackage: Display: Finished SavePackage E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleGameMode.uasset
+[2018.02.10-13.32.11:228][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleBlock" FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset" SILENT=true
+[2018.02.10-13.32.11:486][628]LogSavePackage: Save=254.07ms
+[2018.02.10-13.32.11:486][628]LogSavePackage: Moving 'E:/UnrealProjects/MyProject/Saved/PuzzleBlock9F1ED4FC480C6A25DD7613B36A6D7086.tmp' to 'E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset'
+[2018.02.10-13.32.11:488][628]LogSavePackage: Display: Finished SavePackage E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset
+[2018.02.10-13.32.12:998][803]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.32.13:022][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.13:023][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.32.13:023][803]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:32:13 AM)
+[2018.02.10-13.32.13:023][803]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.32.13:045][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021872s)
+[2018.02.10-13.32.13:046][803]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.32.13:046][803]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2018.02.10-13.32.13:046][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.023464s)
+[2018.02.10-13.32.13:112][803]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.32.13:121][803]LogInit: FAudioDevice initialized.
+[2018.02.10-13.32.13:174][803]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.32.13:176][803]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.32.13
+[2018.02.10-13.32.13:176][803]LogWorld: Bringing up level for play took: 0.001033
+[2018.02.10-13.32.13:185][803]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0.44
+[2018.02.10-13.32.13:185][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.14:005][881]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.32.14:517][938]LogBlueprintUserMessages: [PuzzleBlock_C_8] Hello
+[2018.02.10-13.32.15:051][996]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.32.15:445][ 38]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.32.15:837][ 78]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.32.16:237][121]LogBlueprintUserMessages: [PuzzleBlock_C_1] Hello
+[2018.02.10-13.32.16:670][168]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.32.17:121][216]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.32.17:739][282]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.32.18:183][330]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.32.21:985][746]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.32.22:285][778]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.32.23:100][865]LogBlueprintUserMessages: [PuzzleBlock_C_0] Hello
+[2018.02.10-13.32.23:425][900]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.32.24:525][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.24:577][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.37:487][550]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.32.37:511][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.37:511][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.32.37:511][550]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:32:37 AM)
+[2018.02.10-13.32.37:511][550]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.32.37:532][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021340s)
+[2018.02.10-13.32.37:534][550]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.32.37:534][550]LogPlayLevel: PIE: World Init took: (0.001486s)
+[2018.02.10-13.32.37:534][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.023301s)
+[2018.02.10-13.32.37:608][550]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.32.37:617][550]LogInit: FAudioDevice initialized.
+[2018.02.10-13.32.37:658][550]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.32.37:659][550]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.32.37
+[2018.02.10-13.32.37:660][550]LogWorld: Bringing up level for play took: 0.001081
+[2018.02.10-13.32.37:660][550]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.10-13.32.37:675][550]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.05
+[2018.02.10-13.32.37:675][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.39:370][737]LogBlueprintUserMessages: [PuzzleBlock_C_0] Hello
+[2018.02.10-13.32.40:075][819]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.32.41:174][949]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.32.41:631][  2]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.32.42:236][ 72]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.32.42:847][143]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.32.43:356][202]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.32.43:821][255]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.32.44:205][300]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.32.44:596][345]LogBlueprintUserMessages: [PuzzleBlock_C_1] Hello
+[2018.02.10-13.32.46:508][568]LogBlueprintUserMessages: [PuzzleBlock_C_1] Hello
+[2018.02.10-13.32.46:860][609]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.32.49:264][879]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.32.49:585][916]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.32.50:607][ 34]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.32.50:945][ 73]LogBlueprintUserMessages: [PuzzleBlock_C_8] goodbye
+[2018.02.10-13.32.53:137][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.53:174][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.54:748][500]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.32.54:770][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.54:770][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.32.54:770][500]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:32:54 AM)
+[2018.02.10-13.32.54:770][500]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.32.54:792][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021701s)
+[2018.02.10-13.32.54:793][500]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.32.54:794][500]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2018.02.10-13.32.54:794][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.023321s)
+[2018.02.10-13.32.54:865][500]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.32.54:874][500]LogInit: FAudioDevice initialized.
+[2018.02.10-13.32.54:923][500]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.32.54:925][500]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.32.54
+[2018.02.10-13.32.54:925][500]LogWorld: Bringing up level for play took: 0.001338
+[2018.02.10-13.32.54:925][500]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.10-13.32.54:932][500]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0.692
+[2018.02.10-13.32.54:933][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.32.56:014][618]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.32.56:406][664]LogBlueprintUserMessages: [PuzzleBlock_C_1] Hello
+[2018.02.10-13.32.57:486][790]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.32.58:011][851]LogBlueprintUserMessages: [PuzzleBlock_C_0] Hello
+[2018.02.10-13.32.58:739][935]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.32.59:246][993]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.32.59:825][ 60]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.00:435][130]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.33.01:082][205]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.01:839][292]LogBlueprintUserMessages: [PuzzleBlock_C_8] goodbye
+[2018.02.10-13.33.03:547][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.03:586][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.04:843][628]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.33.04:865][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.04:865][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.33.04:865][628]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:33:04 AM)
+[2018.02.10-13.33.04:865][628]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.33.04:888][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022719s)
+[2018.02.10-13.33.04:889][628]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.33.04:889][628]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2018.02.10-13.33.04:890][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.024307s)
+[2018.02.10-13.33.04:962][628]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.33.04:971][628]LogInit: FAudioDevice initialized.
+[2018.02.10-13.33.05:025][628]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.33.05:027][628]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.33.05
+[2018.02.10-13.33.05:027][628]LogWorld: Bringing up level for play took: 0.001131
+[2018.02.10-13.33.05:027][628]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.10-13.33.05:034][628]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0.59
+[2018.02.10-13.33.05:035][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.06:064][739]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.06:427][781]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.33.09:597][157]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.10:116][217]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.33.10:717][287]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.11:246][348]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.33.11:803][412]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.12:214][459]LogBlueprintUserMessages: [PuzzleBlock_C_8] Hello
+[2018.02.10-13.33.12:663][511]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.13:318][586]LogBlueprintUserMessages: [PuzzleBlock_C_0] Hello
+[2018.02.10-13.33.15:805][875]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.16:141][914]LogBlueprintUserMessages: [PuzzleBlock_C_1] Hello
+[2018.02.10-13.33.16:549][961]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.16:901][  1]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.33.17:702][ 92]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.18:288][159]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.33.18:746][211]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.19:064][247]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.33.19:416][287]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.19:823][333]LogBlueprintUserMessages: [PuzzleBlock_C_8] Hello
+[2018.02.10-13.33.20:196][376]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.20:662][429]LogBlueprintUserMessages: [PuzzleBlock_C_0] Hello
+[2018.02.10-13.33.21:139][484]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.21:682][545]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.33.22:098][592]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.22:574][646]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.33.23:377][737]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.33.23:746][778]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.25:746][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.25:785][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.26:874][123]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.33.26:896][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.26:897][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.33.26:897][123]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:33:26 AM)
+[2018.02.10-13.33.26:897][123]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.33.26:918][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021428s)
+[2018.02.10-13.33.26:919][123]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.33.26:920][123]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2018.02.10-13.33.26:920][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.022947s)
+[2018.02.10-13.33.26:990][123]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.33.26:999][123]LogInit: FAudioDevice initialized.
+[2018.02.10-13.33.27:046][123]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.33.27:048][123]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.33.27
+[2018.02.10-13.33.27:048][123]LogWorld: Bringing up level for play took: 0.001043
+[2018.02.10-13.33.27:048][123]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.10-13.33.27:055][123]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0.569
+[2018.02.10-13.33.27:056][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.30:337][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.30:391][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.31:486][618]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.33.31:508][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.31:509][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.33.31:509][618]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:33:31 AM)
+[2018.02.10-13.33.31:509][618]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.33.31:532][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023217s)
+[2018.02.10-13.33.31:533][618]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.33.31:533][618]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2018.02.10-13.33.31:534][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.024733s)
+[2018.02.10-13.33.31:612][618]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.33.31:621][618]LogInit: FAudioDevice initialized.
+[2018.02.10-13.33.31:669][618]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.33.31:670][618]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.33.31
+[2018.02.10-13.33.31:671][618]LogWorld: Bringing up level for play took: 0.001215
+[2018.02.10-13.33.31:671][618]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.10-13.33.31:678][618]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.053
+[2018.02.10-13.33.31:679][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.32:454][699]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.32:823][742]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.33.34:502][937]LogBlueprintUserMessages: [PuzzleBlock_C_8] Hello
+[2018.02.10-13.33.34:880][981]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.33.35:451][ 46]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.33.35:827][ 89]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.33.36:360][150]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.33.36:815][202]LogBlueprintUserMessages: [PuzzleBlock_C_0] Hello
+[2018.02.10-13.33.37:230][250]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.33.37:646][298]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.33.38:041][343]LogBlueprintUserMessages: [PuzzleBlock_C_7] Hello
+[2018.02.10-13.33.38:400][384]LogBlueprintUserMessages: [PuzzleBlock_C_6] Hello
+[2018.02.10-13.33.40:727][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.40:787][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.41:769][761]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.33.41:792][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.41:792][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.33.41:793][761]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:33:41 AM)
+[2018.02.10-13.33.41:793][761]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.33.41:816][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022903s)
+[2018.02.10-13.33.41:817][761]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.33.41:817][761]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.02.10-13.33.41:817][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.024388s)
+[2018.02.10-13.33.41:890][761]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.33.41:899][761]LogInit: FAudioDevice initialized.
+[2018.02.10-13.33.41:946][761]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.33.41:947][761]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.33.41
+[2018.02.10-13.33.41:948][761]LogWorld: Bringing up level for play took: 0.001136
+[2018.02.10-13.33.41:948][761]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.10-13.33.41:955][761]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.33
+[2018.02.10-13.33.41:955][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.42:603][827]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.33.42:953][867]LogBlueprintUserMessages: [PuzzleBlock_C_2] Hello
+[2018.02.10-13.33.43:383][917]LogBlueprintUserMessages: [PuzzleBlock_C_5] Hello
+[2018.02.10-13.33.43:719][955]LogBlueprintUserMessages: [PuzzleBlock_C_8] Hello
+[2018.02.10-13.33.44:273][ 18]LogBlueprintUserMessages: [PuzzleBlock_C_4] Hello
+[2018.02.10-13.33.44:662][ 63]LogBlueprintUserMessages: [PuzzleBlock_C_1] Hello
+[2018.02.10-13.33.45:221][127]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.33.45:629][174]LogBlueprintUserMessages: [PuzzleBlock_C_0] Hello
+[2018.02.10-13.33.45:974][214]LogBlueprintUserMessages: [PuzzleBlock_C_3] Hello
+[2018.02.10-13.33.46:278][249]LogBlueprintUserMessages: [PuzzleBlock_C_6] goodbye
+[2018.02.10-13.33.47:391][377]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.33.47:445][377]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.34.28:441][236]BlueprintLog: New page: Compile PuzzleBlock
+[2018.02.10-13.34.28:676][236]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.28:796][236]LogBlueprintUserMessages: [PuzzleBlock_C_7] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.28:973][236]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.28:974][236]LogBlueprintUserMessages: [PuzzleBlock_C_7] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.28:974][236]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.46:735][263]BlueprintLog: New page: Compile PuzzleBlock
+[2018.02.10-13.34.46:965][263]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.47:091][263]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.47:282][263]LogBlueprintUserMessages: [PuzzleBlock_C_1] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.47:283][263]LogBlueprintUserMessages: [PuzzleBlock_C_6] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.47:283][263]LogBlueprintUserMessages: [PuzzleBlock_C_7] PuzzelBlock_GameModeCast_Fail
+[2018.02.10-13.34.49:364][498]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.34.49:388][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.34.49:388][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.34.49:388][498]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:34:49 AM)
+[2018.02.10-13.34.49:388][498]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.34.49:410][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021325s)
+[2018.02.10-13.34.49:410][498]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.34.49:411][498]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2018.02.10-13.34.49:411][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.022757s)
+[2018.02.10-13.34.49:482][498]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.34.49:492][498]LogInit: FAudioDevice initialized.
+[2018.02.10-13.34.49:542][498]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.34.49:543][498]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.34.49
+[2018.02.10-13.34.49:544][498]LogWorld: Bringing up level for play took: 0.001022
+[2018.02.10-13.34.49:552][498]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap -0.073
+[2018.02.10-13.34.49:553][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.34.50:741][616]LogBlueprintUserMessages: [PuzzleBlock_C_2] 3
+[2018.02.10-13.34.52:402][801]LogBlueprintUserMessages: [PuzzleBlock_C_5] 3
+[2018.02.10-13.34.53:396][911]LogBlueprintUserMessages: [PuzzleBlock_C_2] 3
+[2018.02.10-13.34.54:128][990]LogBlueprintUserMessages: [PuzzleBlock_C_8] 3
+[2018.02.10-13.34.54:781][ 61]LogBlueprintUserMessages: [PuzzleBlock_C_2] 3
+[2018.02.10-13.34.55:365][125]LogBlueprintUserMessages: [PuzzleBlock_C_1] 3
+[2018.02.10-13.34.56:196][209]LogBlueprintUserMessages: [PuzzleBlock_C_2] 3
+[2018.02.10-13.34.56:581][251]LogBlueprintUserMessages: [PuzzleBlock_C_4] 3
+[2018.02.10-13.34.57:163][314]LogBlueprintUserMessages: [PuzzleBlock_C_2] 3
+[2018.02.10-13.34.57:716][374]LogBlueprintUserMessages: [PuzzleBlock_C_7] 3
+[2018.02.10-13.34.58:275][435]LogBlueprintUserMessages: [PuzzleBlock_C_2] 3
+[2018.02.10-13.34.58:948][508]LogBlueprintUserMessages: [PuzzleBlock_C_0] 3
+[2018.02.10-13.34.59:423][560]LogBlueprintUserMessages: [PuzzleBlock_C_2] 3
+[2018.02.10-13.35.00:240][647]LogBlueprintUserMessages: [PuzzleBlock_C_6] 3
+[2018.02.10-13.35.02:280][872]LogBlueprintUserMessages: [PuzzleBlock_C_3] 3
+[2018.02.10-13.35.02:752][924]LogBlueprintUserMessages: [PuzzleBlock_C_6] 3
+[2018.02.10-13.35.03:331][987]LogBlueprintUserMessages: [PuzzleBlock_C_0] 3
+[2018.02.10-13.35.03:817][ 40]LogBlueprintUserMessages: [PuzzleBlock_C_0] 3
+[2018.02.10-13.35.04:255][ 88]LogBlueprintUserMessages: [PuzzleBlock_C_1] 3
+[2018.02.10-13.35.04:646][130]LogBlueprintUserMessages: [PuzzleBlock_C_4] 3
+[2018.02.10-13.35.05:085][177]LogBlueprintUserMessages: [PuzzleBlock_C_7] 3
+[2018.02.10-13.35.05:500][222]LogBlueprintUserMessages: [PuzzleBlock_C_8] 3
+[2018.02.10-13.35.06:018][278]LogBlueprintUserMessages: [PuzzleBlock_C_5] 3
+[2018.02.10-13.35.06:408][321]LogBlueprintUserMessages: [PuzzleBlock_C_2] 3
+[2018.02.10-13.35.07:085][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.35.07:142][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.35.09:151][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzleBlock" FILE="E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset" SILENT=true
+[2018.02.10-13.35.09:424][617]LogSavePackage: Save=262.61ms
+[2018.02.10-13.35.09:424][617]LogSavePackage: Moving 'E:/UnrealProjects/MyProject/Saved/PuzzleBlock77B0B736479B55C649EB67B637D9809D.tmp' to 'E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset'
+[2018.02.10-13.35.09:426][617]LogSavePackage: Display: Finished SavePackage E:/UnrealProjects/MyProject/Content/PuzzleBP/Blueprints/PuzzleBlock.uasset
+[2018.02.10-13.35.36:287][783]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.35.36:310][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.35.36:311][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.35.36:311][783]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:35:36 AM)
+[2018.02.10-13.35.36:311][783]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.35.36:336][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025156s)
+[2018.02.10-13.35.36:337][783]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.35.36:338][783]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2018.02.10-13.35.36:338][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.026947s)
+[2018.02.10-13.35.36:407][783]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.35.36:416][783]LogInit: FAudioDevice initialized.
+[2018.02.10-13.35.36:463][783]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.35.36:465][783]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.35.36
+[2018.02.10-13.35.36:465][783]LogWorld: Bringing up level for play took: 0.001160
+[2018.02.10-13.35.36:466][783]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.10-13.35.36:473][783]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.849
+[2018.02.10-13.35.36:474][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.35.41:534][126]LogRenderer: Reallocating scene render targets to support 1292x1048 Format 10 NumSamples 1 (Frame:345).
+[2018.02.10-13.35.48:809][864]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 1587
+[2018.02.10-13.35.48:809][864]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PuzzleBP/Blueprints/PuzzleBlock.PuzzleBlock_C:BndEvt__BlockMesh_K2Node_ComponentBoundEvent_193_ComponentOnClickedSignature__DelegateSignature
+	Function /Game/PuzzleBP/Blueprints/PuzzleBlock.PuzzleBlock_C:ExecuteUbergraph_PuzzleBlock
+	Function /Game/PuzzleBP/Blueprints/PuzzleGameMode.PuzzleGameMode_C:f_AllColorCompare
+
+[2018.02.10-13.36.01:902][864]LogBlueprintUserMessages: [PuzzleBlock_C_3] 2
+[2018.02.10-13.36.01:906][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.36.01:973][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.36.11:821][956]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.36.11:849][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.36.11:849][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.36.11:850][956]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:36:11 AM)
+[2018.02.10-13.36.11:850][956]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.36.11:874][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024175s)
+[2018.02.10-13.36.11:875][956]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.36.11:875][956]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2018.02.10-13.36.11:875][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.025653s)
+[2018.02.10-13.36.11:946][956]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.36.11:956][956]LogInit: FAudioDevice initialized.
+[2018.02.10-13.36.12:002][956]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.36.12:004][956]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.36.12
+[2018.02.10-13.36.12:004][956]LogWorld: Bringing up level for play took: 0.001094
+[2018.02.10-13.36.12:012][956]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.388
+[2018.02.10-13.36.12:013][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.36.13:482][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.36.13:533][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.36.16:489][448]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.10-13.36.16:513][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.36.16:513][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-13.36.16:513][448]PIE: New page: PIE session: PuzzleExampleMap (Feb 10, 2018, 1:36:16 AM)
+[2018.02.10-13.36.16:513][448]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.02.10-13.36.16:536][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023070s)
+[2018.02.10-13.36.16:537][448]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.02.10-13.36.16:538][448]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2018.02.10-13.36.16:538][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.024892s)
+[2018.02.10-13.36.16:608][448]LogInit: XAudio2 using '1 - C27F591 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-13.36.16:617][448]LogInit: FAudioDevice initialized.
+[2018.02.10-13.36.16:666][448]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.02.10-13.36.16:668][448]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 0) at 2018.02.10-07.36.16
+[2018.02.10-13.36.16:668][448]LogWorld: Bringing up level for play took: 0.001302
+[2018.02.10-13.36.16:677][448]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 1.052
+[2018.02.10-13.36.16:677][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.02.10-13.36.32:024][ 50]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 1587
+[2018.02.10-13.36.32:024][ 50]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PuzzleBP/Blueprints/PuzzleBlock.PuzzleBlock_C:BndEvt__BlockMesh_K2Node_ComponentBoundEvent_193_ComponentOnClickedSignature__DelegateSignature
+	Function /Game/PuzzleBP/Blueprints/PuzzleBlock.PuzzleBlock_C:ExecuteUbergraph_PuzzleBlock
+	Function /Game/PuzzleBP/Blueprints/PuzzleGameMode.PuzzleGameMode_C:f_AllColorCompare
+
+[2018.02.10-13.36.41:064][ 50]LogBlueprintUserMessages: [PuzzleBlock_C_7] 2
+[2018.02.10-13.36.49:292][899]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 1587
+[2018.02.10-13.36.49:292][899]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PuzzleBP/Blueprints/PuzzleBlock.PuzzleBlock_C:BndEvt__BlockMesh_K2Node_ComponentBoundEvent_193_ComponentOnClickedSignature__DelegateSignature
+	Function /Game/PuzzleBP/Blueprints/PuzzleBlock.PuzzleBlock_C:ExecuteUbergraph_PuzzleBlock
+	Function /Game/PuzzleBP/Blueprints/PuzzleGameMode.PuzzleGameMode_C:f_AllColorCompare
+
+[2018.02.10-13.36.55:179][899]LogBlueprintUserMessages: [PuzzleBlock_C_4] 2
+[2018.02.10-13.37.02:571][750]LogUObjectBase: Warning: Object is not registered
+[2018.02.10-13.37.02:692][750]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.121 s
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: 
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: Stack: 
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000009F82786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000009D2123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000009D3B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000015733F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000033E03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000FFF93EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000FFE274AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000FFE2ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000FFF58225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000008F37397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000008F3CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000009179913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000008F93484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000008F6B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000008F5D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000010B4E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000010B41A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000010B503EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000010B3D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000035A4B85D USER32.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000035A4B1EF USER32.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000010B51516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000CB7750C8 UE4Editor.exe!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000CB785430 UE4Editor.exe!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000CB7854AA UE4Editor.exe!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000CB792379 UE4Editor.exe!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000CB793D57 UE4Editor.exe!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x00000000346C1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: [Callstack] 0x0000000035E0EF91 ntdll.dll!UnknownFunction []
+[2018.02.10-13.37.02:693][750]LogOutputDevice: Error: 
+[2018.02.10-13.37.02:695][750]LogStats:                SubmitErrorReport -  0.000 s
